@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+
+# VS Code
+.vscode/
+
+# Data files (optional - uncomment if you want to ignore CSV)
+# *.csv
+
+# OS
+Thumbs.db
+.DS_Store
